@@ -1,4 +1,4 @@
-title: MineralIQ
+﻿title: MineralIQ
 emoji: ⛏️
 colorFrom: yellow
 colorTo: red
