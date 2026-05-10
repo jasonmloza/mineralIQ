@@ -1,13 +1,3 @@
-﻿title: MineralIQ
-emoji: ⛏️
-colorFrom: yellow
-colorTo: red
-sdk: streamlit
-sdk_version: "1.32.0"
-app_file: app.py
-pinned: true
----
-
 # ⛏️ MineralIQ — Gold Exploration AI
 
 > **AMD Hackathon submission** · Built by Jason Mloza
